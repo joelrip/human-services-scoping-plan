@@ -1,0 +1,37 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+highlighter: pygments
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: Human Services Pilot Project Scoping Plan
+subtitle: a California Health Data Project effort
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Sacramento Health Data Ambassadors
+  url: health@codeforsacramento.org
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl:
+logoalt:
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: /
+- text: Discovery Research
+  url: /discovery-research
+- text: Data Ecosystem Analysis
+  url: /data-ecosystem
+- text: High Level Plan
+  url: /high-level-plan
+
+# Style Variables
+brand_color: "#009688"

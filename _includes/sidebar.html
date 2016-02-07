@@ -1,0 +1,14 @@
+<aside>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav class="sidebar-nav" role="navigation">
+    <ul>
+      {% for link in site.navigation %}
+        <li {% if page.title == link.text %}class="sidebar-nav-active"{% endif %}>
+          <a href="{{ link.url }}" {% if page.title == link.text %} title='Selected' {% endif %}>
+            {{ link.text }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</aside>

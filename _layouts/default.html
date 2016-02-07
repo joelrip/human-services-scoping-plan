@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>
+      {% if page.title == null %}
+        {{ site.name }}
+      {% else %}
+        {{ page.title }} - {{ site.name }}
+      {% endif %}
+    </title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/syntax.css">
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+  <body>
+    <div class="container">
+      <header role="banner">
+        <div class="wrap">
+          {% if site.logourl != null %}
+            <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
+          {% endif %}
+          <h1 class="site-title"><a class="title-link" href="/">{{ site.name }}</a></h1>
+          <p class="intro">{{ site.subtitle }}</p>
+        </div>
+      </header>
+
+      <div class="wrap content">
+
+        {% include sidebar.html %}
+
+        <section id="main" class="main-content" role="main">
+          <h2 class="page-title">{{ page.title }}</h2>
+          {{ content }}
+        </section>
+
+      </div><!-- /.wrap content -->
+
+      <footer role="contentinfo">
+        <div class="wrap">
+          <p>This project is maintained by <a href="mailto:{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>.</p>
+          <p>View on <a href="https://github.com/CAHealthData/human-services-scoping-plan" target="_blank">GitHub</a>.</p>
+        </div><!--/.wrap -->
+      </footer>
+    </div> <!-- /.container -->
+  </body>
+</html>
