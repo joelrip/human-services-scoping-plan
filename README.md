@@ -1,7 +1,7 @@
 # Human Services Pilot Project Scoping Plan
 
 ### [Track our progress in real-time with Waffle](https://waffle.io/cahealthdata/human-services-scoping-plan)
-[![](https://cloud.githubusercontent.com/assets/100216/9208980/322e1b52-4042-11e5-88d6-d29bf077503b.png)](https://waffle.io/code4sac/meetups)
+[![](https://cloud.githubusercontent.com/assets/100216/9208980/322e1b52-4042-11e5-88d6-d29bf077503b.png)](https://waffle.io/cahealthdata/human-services-scoping-plan)
 
 It’s hard to see the safety net. Which agencies provide what services to whom? How can people access them? These details are constantly in flux. Nonprofits and government offices are typically understaffed and overwhelmed, and it’s often not a priority for them to push information out to attract more clients.
 
@@ -22,13 +22,13 @@ Specifically, the goals of this scoping process are to:
 - Unpack these challenges into discrete problem sets that enable the development of loosely coupled, modular solutions;
 - Document business requirements in the form of user stories through workshops and interviews;
 - Articulate an operational vision that best meets stakeholder needs; and,
-- Design a high level action plan for getting there. 
+- Design a high level action plan for getting there.
 
 ### Discovery-Driven Planning
 
 “Discovery-driven planning” is a project planning approach aligned with agile development. It is appropriately applied in conditions of high uncertainty and forces project managers to explicate assumptions that are core to the success of a project. The approach enables those assumptions to be tested early at the lowest possible cost, thereby maximizing the chances of a project’s success.
 
-Through a series of interviews, we will discover and discuss business requirements and possible solutions with stakeholders, including 2-1-1s, service providers, funders, public agencies, and end users. Analysis of this data will ensure that it is correctly incorporated into the functionality required for the pilot project. 
+Through a series of interviews, we will discover and discuss business requirements and possible solutions with stakeholders, including 2-1-1s, service providers, funders, public agencies, and end users. Analysis of this data will ensure that it is correctly incorporated into the functionality required for the pilot project.
 
 ### [Track our progress in real-time with Waffle](https://waffle.io/cahealthdata/human-services-scoping-plan)
-[![](https://cloud.githubusercontent.com/assets/100216/9208980/322e1b52-4042-11e5-88d6-d29bf077503b.png)](https://waffle.io/code4sac/meetups)
+[![](https://cloud.githubusercontent.com/assets/100216/9208980/322e1b52-4042-11e5-88d6-d29bf077503b.png)](https://waffle.io/cahealthdata/human-services-scoping-plan)
