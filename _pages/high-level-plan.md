@@ -6,9 +6,11 @@ title:  "High Level Plan"
 Coming soon.
 
 ## Possible Contents
-- Environmental Scan
-- Funding Streams
-- Problem Sets
-- Needs Assessment/Gap Analysis
-- Stakeholder Interviews/Survey Data
-- User Journey Maps
+- High Level Design/System Map
+    * Options for where to put the data
+- Project Partners
+- User Stories
+- Implementation Plan
+- Sustainability Plan
+    * Potential funders
+- High Level Project Budget/Cost Estimate
