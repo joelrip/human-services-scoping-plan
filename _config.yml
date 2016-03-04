@@ -32,6 +32,8 @@ navigation:
   url: /data-ecosystem
 - text: High Level Plan
   url: /high-level-plan
+- text: Thank Yous and Works Cited
+  url: /works-cited-and-thanks
 
 # Style Variables
 brand_color: "#009688"
