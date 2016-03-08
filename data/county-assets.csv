@@ -1,0 +1,59 @@
+COUNTY,DATA PORTAL VENDOR,DATA PORTAL URL,2-1-1 VENDOR,2-1-1 URL,GIS VENDOR,GIS URL,Notes
+Alameda County,Socrata,https://data.acgov.org/,Eden I&R,http://edenir.org/2-1-1.html,Esri,https://www.acgov.org/government/geospatial.htm,
+Alpine County,,,,,,,
+Amador County,,,,,,,
+Butte County,,,ReferWeb,http://www.helpcentral.org/,,,
+Calaveras County,,,,,,,
+City and County of San Francisco,Socrata,https://data.sfgov.org/,iCarol,http://211bayarea.org/san-francisco/,Esri,https://sfgov.maps.arcgis.com/home/,
+Colusa County,,,,,,,
+Contra Costa County,,,Bowman Systems,http://cccc.bowmansystems.com,,,
+Del Norte County,,,,,,,
+El Dorado County,,,,,,,
+Fresno County,,,iCarol,http://www.valley211.org/,,,
+Glenn County,,,,,,,
+Humboldt County,,,iCarol,http://www.211humboldt.org/,,,
+Imperial County,,,Visionlink,http://www.211imperial.org/index.html,,,
+Inyo County,,,,,,,
+Kern County,,,iCarol,http://www.211kerncounty.org/,Esri,http://gis.sbcountydpw.opendata.arcgis.com/,
+Kings County,,,iCarol,http://www.211kingscounty.org/,,,
+Lake County,,,,,Esri,http://gispublic.co.lake.ca.us/portal/home/,
+Lassen County,,,,,,,
+Los Angeles County,Socrata,https://data.lacounty.gov/,211 LA County,https://www.211la.org/about-us/,Esri,http://egis3.lacounty.gov/dataportal/,
+Madera County,,,,,,,
+Marin County,,,iCarol,http://211bayarea.org/marin/,Esri,http://www.marinmap.org/Html5Viewer/Index.html?viewer=mmdataviewer,
+Mariposa County,,,iCarol,http://mountainvalley211.org/211-mariposa-county/,,,
+Mendocino County,,,iCarol,http://www.211mendocino.org/,Other,http://www.co.mendocino.ca.us/econdev/gis/mapping.htm,
+Merced County,,,iCarol,http://mountainvalley211.org/211-mountain-valley-merced-county/,Esri,http://map.co.merced.ca.us/H5/Index.html?configBase=http://map.co.merced.ca.us/Geocortex/Essentials/REST/sites/mapmerced/viewers/H5/virtualdirectory/Resources/Config/Default,More GIS resources at http://www.mcaggis.com/Data_Services.html and http://www.co.merced.ca.us/index.aspx?NID=1592
+Modoc County,,,,,,,
+Mono County,,,,,Esri,https://gis.mono.ca.gov/site/,GIS site available by login only
+Monterey County,,,iCarol,http://www.unitedwaymcca.org/2-1-1,Esri,http://montereycountyopendata.montereyco.opendata.arcgis.com/,More GIS resources at http://65.249.61.35/MCo_MapViewer/
+Napa County,Accela,https://citizen.countyofnapa.org/citizenaccess/,iCarol,http://211bayarea.org/napa/,Other,http://gis.napa.ca.gov/giscatalog/catalog_xml.asp?srch_opt=all&db_name=x&theme=x&sort_order=layer&meta_style=fgdc&submit=Submit,
+Nevada County,,,iCarol,http://www.mynevadacounty.com/Pages/Dial211.aspx,Esri,http://data.nevcounty.opendata.arcgis.com/,More GIS resources at http://gis.nevcounty.net/MyNeighborhood/
+Orange County,OpenGov,http://ocgov.com/about/openoc,iCarol,http://www.211oc.org/,GISCloud,https://ocdata.giscloud.com/,GIS site documentation at http://www.giscloud.com/blog/orange-county-gis-cloud-case-study/
+Placer County,,,,,Other,http://www.placer.ca.gov/departments/communitydevelopment/gis/gis_download,
+Plumas County,,,,,SimpleLayers,https://secure.simplelayers.com/?do=start&project=1111&application=CG3Viewer&embedded=1&bgcolor=ffffff&width=975&height=735&context=22,More GIS resources here http://www.countyofplumas.com/index.aspx?NID=2199
+Riverside County,Socrata,https://data.countyofriverside.us/,iCarol,http://www.connectriverside.org/about-211/,Esri,http://data.countyofriverside.opendata.arcgis.com/,
+Sacramento County,Junar,http://data.saccounty.net/home,iCarol,http://www.211sacramento.org/,Other,http://www.sacgis.org/GISDataPub/Data/Forms/DataUpdate.aspx,
+San Benito County,,,iCarol,http://211bayarea.org/san-benito/,Esri,https://cosb.maps.arcgis.com/home/index.html,More GIS resources at http://www.lynxgis.com/sanbenitoco/
+San Bernardino County,,,iCarol,http://www.211sb.org/,,,More GIS resources at http://cms.sbcounty.gov/gis/Home.aspx
+San Diego County,Socrata,data.livewellsd.org,Visionlink,http://www.211sandiego.org/new/,Other,http://www.sangis.org/,More GIS resources at http://sdcounty.maps.arcgis.com/apps/PublicGallery/index.html?appid=41789799aaf147b786b903e8b9cf5021&group=22bb9c62051d403883f9ea78e31c22c5/
+San Joaquin County,,,iCarol,http://www.211sj.org/,Other,http://www.sjmap.org/,
+San Luis Obispo County,NuCivic,http://sanluisobispo.prod.acquia-sites.com/,iCarol,http://www.unitedwayslo.org/2-1-1,Esri,http://gis.slocounty.opendata.arcgis.com/,Open data platform based on DKAN
+San Mateo County,Socrata,https://data.smcgov.org/,SMC-Connect,http://www.smc-connect.org/,Other,http://maps.smcgov.org/planning/,
+Santa Barbara County,,,iCarol,http://www.211santabarbaracounty.org/,SimpleLayers,https://secure.simplelayers.com/?do=start&project=939&application=CG3Viewer&embedded=1&query_url=0&context=2,GIS is planning department data only
+Santa Clara County,,,iCarol,http://www.211scc.org/,Esri,https://www.sccgov.org/gis/SCCPubInteractiveMap/,
+Santa Cruz County,,,iCarol,http://www.unitedwaysc.org/,Esri,http://data.sccgis.opendata.arcgis.com/,More GIS resources at http://www.co.santa-cruz.ca.us/Departments/GeographicInformationSystems(GIS).aspx
+Shasta County,,,iCarol,http://211norcal.org/shasta/,Other,http://www.co.shasta.ca.us/index/gis_index/Data_Download.aspx,Planning department data only
+Sierra County,,,,,CalCAD,http://demos2.calcad.com:8080/SierraCountyPublic/fusion.php,Planning department data only
+Siskiyou County,,,,,,,
+Solano County,,,iCarol,http://211bayarea.org/solano/,Esri,http://solano.doitgis.opendata.arcgis.com/,
+Sonoma County,Socrata,https://data.sonomacounty.ca.gov/,iCarol,http://211wc.org/,Esri,http://imsportal.sonoma-county.org/ActiveMap/,
+Stanislaus County,,,iCarol,http://www.uwaystan.org/,Other,http://gis.stancounty.com/giscentral/public/downloads.jsp?main=4,Planning department data only
+Sutter County,,,,,Other,https://www.co.sutter.ca.us/apps/gis/gisdownload.aspx,Planning department data only
+Tehama County,,,iCarol,http://211norcal.org/tehama/,,,
+Trinity County,,,,,Esri,http://trinitycounty.maps.arcgis.com/apps/Viewer/index.html?appid=320cf1c1558c43c8b1f2f70c23d35026,Planning department data only
+Tulare County,,,iCarol,http://www.211tularecounty.org/,Other,http://www.tularecounty.ca.gov/tcict/index.cfm/geographic-information-system-gis/gis-data/,Planning department data only
+Tuolumne County,,,,,Other,http://www.tuolumnecounty.ca.gov/index.aspx?NID=524,
+Ventura County,,,iCarol,http://www.211ventura.org/,Other,http://www.ventura.org/gis-mapping/gis-data-downloads-mapping-base,Planning department data only
+Yolo County,,,iCarol,http://www.yolocounty.org/general-government/general-government-departments/library/library-services/2-1-1-yolo,Other,http://www.yolocounty.org/community-services/planning-public-works/geographic-information-system-gis/use-gis,GIS site available by login only
+Yuba County,,,,,Other,http://gis.co.yuba.ca.us/data.html,
