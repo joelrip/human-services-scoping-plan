@@ -5,11 +5,15 @@ title:  "Data Ecosystem Analysis"
 
 Coming soon.
 
-## Possible Contents
+## Human Services Dataset Federation
 
-- Human Services Dataset Inventory
-- Data Schema Inventory
-- Data Journey Maps
+A federated human services data system would pull information from numerous federal, state, and local data sources. Enumerating all the datasets the core API could consume is beyond the scope of this plan, but the examples below illustrate how services data from different jurisdictions could be combined in such a system.
+
+###Example: Food Assistance
+There are many avenues available for people seeking food assistance in the United States. These include the Federal Supplemental Nutrition Assistance Program (SNAP), state-administrated Women, Infants and Children (WIC) aid, and local food banks. A California human services API could consume [SNAP locations](http://www.fns.usda.gov/snap/retailerlocator), locations for the state's [authorized WIC vendors](https://cdph.data.ca.gov/Facilities-and-Services/Women-Infants-and-Children-WIC-Authorized-Vendors/i7wi-ei4m), and [county food bank contact information](http://www.cafoodbanks.org/cafb-member-food-banks). A suite of data like this could be used by community organizations that wish to offer food assistance directly, by showing gaps in existing service coverage and providing contact information for food bank suppliers nearby. 
+
+###Example: Mental Health Services
+Mental health services information comes from cross-jurisdictional sources as well. A California human services API could bring together the federal Substance Abuse and Mental Health Services Administration's [facilities information](www.samhsa.gov/data/mental-health-facilities-data-nmhss/reports), the California Department of Rehabilitation's [traumatic brain injury center](https://chhs.data.ca.gov/Facilities-and-Services/California-Independent-Living-and-Traumatic-Brain-/s3hx-yvpp) and [office locations](https://chhs.data.ca.gov/Facilities-and-Services/Department-of-Rehabilitation-Office-Contact-Inform/exxu-vffk), and [county mental health provider directories like this one from Los Angeles County](https://data.lacounty.gov/Mental-Health/Department-of-Mental-Health-DMH-Provider-Directory/az6g-rq5y). This data suite could be used by caregivers to determine whether federal, state, or local services would be most convenient for a given patient. 
 
 ## County Public Data System Vendor Inventory
 
