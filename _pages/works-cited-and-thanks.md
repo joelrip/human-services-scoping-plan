@@ -7,10 +7,10 @@ title:  "Thank Yous and Works Cited"
 The authors would like to thank the following parties for their contributions to this report:
 
 - Andy Krackov at the California Healthcare Foundation for his advice and support
-- Purchia Communications for their oversight and
+- Purchia Communications for their oversight and coordination
 - The California Health and Human Services Agency open data team for their ongoing encouragement
 - All of the California Health Data Ambassadors, and particularly Xavier Leonard and Vyki Englert, for their assistance
-- Travis Korte, for his expert research and writing skills [possibly make him an author instead?]
+- Travis Korte, for his expert research and writing skills
 - Greg Bloom at Open Referral for his expertise and connections
 - Eric Busboom....
 - Pete Cervinka and the California Department of Social Services for their interest and collaboration
@@ -26,6 +26,7 @@ Thank you to all who agreed to be interviewed for this report, including:
 - Neil McKechnie, iCarol
 - Karissa McKelvey, dat
 - Hillary Gaines, EMQ Families First
+- Nnenna Ezeh, California Department of Social Services
 - All CWDA members that responded to our survey
 
 ## Works Cited
