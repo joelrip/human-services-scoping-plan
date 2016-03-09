@@ -69,6 +69,7 @@ In addition to acting as an intermediary between other human services schemas, H
 
 Federating human services data across the State of California represents an ideal use-case for HSDS, insofar as it offers a common ground between the various systems and specifications already in use across the state.
 
-<!-- {% highlight json %}
-{% include openeligibility.json %}
-{% endhighlight %} -->
+<p class="pagination">
+  <a href="/discovery-research">&larr; Prev</a>
+  <span class="pull-right"><a href="/high-level-plan">Next &rarr;</a></span>
+</p>

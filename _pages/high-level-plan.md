@@ -59,3 +59,8 @@ Grant triggers...
 
 
 ## Recommendations and Next Steps -->
+
+<p class="pagination">
+  <a href="/data-ecosystem">&larr; Prev</a>
+  <span class="pull-right"><a href="/works-cited-and-thanks">Next &rarr;</a></span>
+</p>

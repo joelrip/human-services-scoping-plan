@@ -17,3 +17,8 @@ Our design principles are:
 - **Robustness**. The platform should consume data from as many sources as possible to provide end users with the most complete picture of available resources in their communities.
 - **Freshness**. In order to be relevant, a core objective of the platform must be to ensure the most up-to-date information about community resources as possible.
 - **Credible**. While we believe that any user should be able to flag information or (possibly) suggest updates, such information must be verified by trusted sources to ensure credibility.
+
+<p class="pagination">
+  <!-- <a href="">&larr; Prev</a> -->
+  <span class="pull-right"><a href="/discovery-research">Next &rarr;</a></span>
+</p>
