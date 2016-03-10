@@ -31,7 +31,7 @@ The core application would aggregate information on community resources across t
 - **Intelligent Reconciliation:** An algorithm would automate reconciliation between conflicting records in easy cases and escalate records for human review and manual reconciliation in harder cases. The core application would expose the resulting records via its API. Unreconciled records would be flagged as such.
 - **HSDS Parsing and Transformation Scripts:** A set of scripts would be developed that map source dataset fields to HSDS format and transform the data to conform to the standard. This is particularly important given that HSDS is a relational data structure (multiple table) and that open data portals are best suited for flat file structures (single table).
 
-<!-- - Administrative interface 
+<!-- - Administrative interface
 - Public interface for flagging -->
 
 ## Project Partners
