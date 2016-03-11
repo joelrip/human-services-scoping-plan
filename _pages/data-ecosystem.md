@@ -19,6 +19,8 @@ Mental health services information comes from cross-jurisdictional sources as we
 
 California's 58 counties offer human services information on a wide variety of open data portals, 2-1-1 search tools, and geographical information system (GIS) portals, along with countless ad-hoc offline services. The majority (62%) of these public data systems, however, are operated by three vendors: Socrata, iCarol, and Esri.
 
+#### [View the Complete Inventory](https://github.com/CAHealthData/human-services-scoping-plan/blob/gh-pages/data/county-assets.csv)
+
 ### County Open Data Portals
 
 Open data portals, which offer datasets and APIs from various county departments freely to the public, typically include some human services datasets. Although only 11 California counties have some form of open data portal, seven of these (totalling 44% of the state's population) have a portal operated by Socrata. Other county portals are operated by Accela, Junar, NuCivic, and OpenGov.
