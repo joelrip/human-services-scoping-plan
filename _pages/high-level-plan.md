@@ -11,6 +11,8 @@ The pilot project would consist of the following components:
 - **2-1-1 Systems:** Local 2-1-1 organizations that opt-in to the pilot project would expose community resource directory data via application programming interface (API).
 - **Core Application:** A core application that includes a database and API would consume relevant datasets across the distributed network of open data portals and store records locally. The application would make data available to external applications via its API to ensure that application developers only need a single endpoint to consume data.
 
+[![system-map](/data/system-map.svg "System Map")](/data/system-map.svg)
+
 ### Network of Open Data Portals
 
 To leverage existing infrastructure and build on advances made in the open data movement, we believe a federated network of open data portals can fill in the gaps where existing information is missing or incomplete, and help automate an otherwise manual process for updating community resource information. This distributed network might comprise portals (including geographic information system “geoportals”) that span different levels of government (see the [Data Ecosystem Analysis section](/data-ecosystem) for examples of datasets across different agencies). An ideal use case would consist of data sets already in Human Services Data Specification (HSDS) format. However, as we discuss later, this may not be necessary. APIs would make these data available to external applications and automation tools would ensure that these datasets are updated daily to reflect the natural flux of community resource availability.
