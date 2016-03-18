@@ -62,3 +62,8 @@ While the preceding sections make clear the nature and implications of the human
 - a [civic service schema](https://www.w3.org/wiki/images/0/03/Services_for_schema.org_%28DRAFT_2013-06-27%29.pdf) has been proposed for schema.org by a group of [Google.org](http://google.org/) engineers, which will allow for a standardized means of publishing human service data on the web
 
 **Dedicated Organizations:** An ecosystem of players focused on addressing the human services directory problem has sprung up, including not just organizations formed to find a solution to this problem, but also organizations built on the prior, closed system of information and referral that see the value of an open system. These organizations include [Open Referral](https://openreferral.org/), [Aunt Bertha](https://www.auntbertha.com/), [Google.org](http://google.org/), [Purple Binder](http://purplebinder.com/), [iCarol](http://www.icarol.com/), the [United Way](https://www.unitedwaysca.org/), [Socrata](https://www.socrata.com/), and many more.
+
+<p class="pagination">
+  <a href="/">&larr; Prev</a>
+  <span class="pull-right"><a href="/data-ecosystem">Next &rarr;</a></span>
+</p>

@@ -37,3 +37,8 @@ Thank you to all who agreed to be interviewed for this report, including:
 - Greg Bloom, An Open Data Approach to the Human Services Directory Problem, Bloomberg Data for Good Exchange, September 2015, [https://drive.google.com/file/d/0B-5CZ4ZLjTHqQjFaOFVzeHRMMzg/view](https://drive.google.com/file/d/0B-5CZ4ZLjTHqQjFaOFVzeHRMMzg/view)
 - Greg Bloom, Towards a Community Data Commons, Beyond Transparency, 2013, [http://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/](http://beyondtransparency.org/chapters/part-5/towards-a-community-data-commons/)
 - Open Referral, Human Services Data Specification, version 1.0, 2015, [https://github.com/codeforamerica/OpenReferral](https://github.com/codeforamerica/OpenReferral)
+
+<p class="pagination">
+  <a href="/high-level-plan">&larr; Prev</a>
+  <!-- <span class="pull-right"><a href="">Next &rarr;</a></span> -->
+</p>

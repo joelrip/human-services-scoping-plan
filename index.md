@@ -3,13 +3,6 @@ layout: default
 title:  "Home"
 ---
 
-Hello, world!
-
-### [Track our progress in real-time with Waffle](https://waffle.io/cahealthdata/human-services-scoping-plan)
-[![](https://cloud.githubusercontent.com/assets/100216/9208980/322e1b52-4042-11e5-88d6-d29bf077503b.png)](https://waffle.io/cahealthdata/human-services-scoping-plan)
-
-***
-
 We're scoping a potential pilot project in California to develop a **[federated publishing platform](https://openreferral.org/data-for-good-exchange-a-new-paper-with-an-old-concept/)** for human services information.
 
 We're exploring:
@@ -24,3 +17,8 @@ Our design principles are:
 - **Robustness**. The platform should consume data from as many sources as possible to provide end users with the most complete picture of available resources in their communities.
 - **Freshness**. In order to be relevant, a core objective of the platform must be to ensure the most up-to-date information about community resources as possible.
 - **Credible**. While we believe that any user should be able to flag information or (possibly) suggest updates, such information must be verified by trusted sources to ensure credibility.
+
+<p class="pagination">
+  <!-- <a href="">&larr; Prev</a> -->
+  <span class="pull-right"><a href="/discovery-research">Next &rarr;</a></span>
+</p>
