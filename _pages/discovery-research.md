@@ -21,7 +21,7 @@ The numerous different methods by which help-seekers can gain access to informat
 As the previous section makes clear, a number of different avenues are available to a help-seeker to access information on the services available to them. However, users note a number of inefficiencies and failings of the current system, and many have ideas for its improvement.
 
 ### System User Interviews
-In the course of our work, we interviewed a number of users of the human services referral system and gleaned many useful insights from their experience. These insights include the following.
+In the course of our work, we interviewed a number of users of the human services referral system and gleaned much useful information from their experience. We also held a roundtable discussion at which a number of system users shared their insights. These insights include the following.
 
 - A representative from a nonprofit service provider indicated that human services providers tend to be most focused on the "human" side of human services, and do not prioritize things like updating data on services. In her opinion, this makes keeping information on available services updated "the biggest challenge of all time".
 - In contrast to longer-running government services, small nonprofit-run programs can quickly appear, fail to achieve their goals, or worse, "don’t have the capacity to develop ... an evidence based model and often don’t even think to collect outcome data", lose their funding, and disappear. These rapidly appearing and disappearing programs are exceptionally difficult to track and provide reliable information on.
