@@ -12,7 +12,6 @@ The authors would like to thank the following parties for their contributions to
 - All of the California Health Data Ambassadors, and particularly Xavier Leonard and Vyki Englert, for their assistance
 - Travis Korte, for his expert research and writing skills
 - Greg Bloom at Open Referral for his expertise and connections
-- Eric Busboom....
 - Pete Cervinka and the California Department of Social Services for their interest and collaboration
 - The California Welfare Directors Association for their connections and advice
 
@@ -27,6 +26,7 @@ Thank you to all who agreed to be interviewed for this report, including:
 - Karissa McKelvey, dat
 - Hillary Gaines, EMQ Families First
 - Nnenna Ezeh, California Department of Social Services
+- Everyone who participated in our roundtable discussions
 - All CWDA members that responded to our survey
 
 ## Works Cited
